@@ -37,6 +37,14 @@ return {
 		}
 	},
 
+	-- nvim-cmp - https://github.com/hrsh7th/nvim-cmp
+	'hrsh7th/cmp-buffer',
+	'hrsh7th/cmp-path',
+	'hrsh7th/cmp-cmdline',
+		-- for snippets
+		'L3MON4D3/LuaSnip',
+		'saadparwaiz1/cmp_luasnip',
+
 	-- prettier - https://github.com/prettier/vim-prettier
 	'prettier/vim-prettier',
 

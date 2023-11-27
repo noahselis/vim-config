@@ -1,4 +1,4 @@
-n
+{
     "workspace.library": [
         "/Users/noahselis/.local/share/nvim/lazy/neodev.nvim/types/stable",
         "/opt/homebrew/Cellar/neovim/0.9.0/share/nvim/runtime/lua",
